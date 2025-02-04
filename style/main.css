@@ -30,7 +30,7 @@ section {
 main {
   background-color: white;
   align-items: center;
-  border: 2px solid var(--dark-grey);
+  border: 1px solid var(--dark-grey);
   width: clamp(327px, calc(327px + 57 * ((100vw - 340px) / 1080)), 384px);
   border-radius: 20px;
   padding: 1.5rem;
